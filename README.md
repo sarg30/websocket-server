@@ -1,1 +1,1 @@
-Simple Websocket chat application using Socket.io
+Simple Websocket server using Socket.io
